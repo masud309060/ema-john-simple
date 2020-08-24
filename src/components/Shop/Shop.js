@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import fakeData from '../../fakeData'
 import './Shop.css'
-import Product from './Product/Product';
+import Product from '../Product/Product';
 import Cart from '../../components/Cart/Cart'
 
 const Shop = () => {
