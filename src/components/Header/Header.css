@@ -1,0 +1,21 @@
+.header img{
+    height: 80px;
+    display: block;
+    margin: 20px auto;
+}
+.header nav {
+    background-color: black;
+    line-height: 50px;
+    font-size: 20px;
+
+}
+.header nav a {
+    text-decoration: none;
+    color: white;
+    padding: 12px 20px;
+    font-style: italic;
+    border-right: 1px solid gray;
+}
+.header nav a:hover {
+    background-color: gray;
+}
